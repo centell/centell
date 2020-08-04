@@ -1,9 +1,5 @@
 ### Centell 👋
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcentell%2Fhit-counter)                 
 
 <!--
 **centell/centell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
