@@ -1,7 +1,12 @@
 # Centell 
 
-Love Node.js
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcentell%2Fhit-counter)                 
+
+Love Node.js  
+
+### Home
+Personal: https://centell.me
+Community: http://RLidea.com
 
 <!--
 **centell/centell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
