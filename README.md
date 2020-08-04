@@ -5,8 +5,8 @@
 Love Node.js  
 
 ## Homepage
-Personal: https://centell.me
-Community: http://RLidea.com
+- Personal: https://centell.me
+- Community: http://RLidea.com
 
 <!--
 **centell/centell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
