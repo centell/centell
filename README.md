@@ -1,6 +1,6 @@
 # Centell 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcentell%2Fhit-counter)                 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcentell%2Fhit-counter)  
 
 Love Node.js  
 
