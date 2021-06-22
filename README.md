@@ -56,6 +56,12 @@
 <a href="https://heroku.com" target="_blank"> <img
   src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
   height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+  alt="nginx" width="40" height="40"/> </a>
+<a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img
+  src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40"
+  height="40"/> </a>
 
 <a href="https://mariadb.org/" target="_blank"> <img
   src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40"
@@ -67,12 +73,6 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
   alt="redis" width="40" height="40"/> </a>
 
-<a href="https://www.nginx.com" target="_blank"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-  alt="nginx" width="40" height="40"/> </a>
-<a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img
-  src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40"
-  height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centell&show_icons=true&locale=en&layout=compact" alt="centell" /></p>
